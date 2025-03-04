@@ -1,0 +1,19 @@
+GET http://localhost:5016/blogs
+
+###
+POST http://localhost:5016/blogs
+Content-Type: application/json
+
+{
+    "title": "my title",
+    "body": "my body"
+}
+###
+POST http://localhost:5016/blogs
+Content-Type: application/json
+x-api-key: thisIsABadPassword
+
+{
+    "title": "my title",
+    "body": "my body"
+}

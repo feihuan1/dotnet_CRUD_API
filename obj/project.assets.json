@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pengf\\Desktop\\projects\\cs\\CrudAPI\\CrudAPI\\CrudAPI.csproj",
+      "projectUniqueName": "C:\\Users\\pengf\\Desktop\\projects\\cs\\Custom_Middleware\\dotnet_CRUD_API\\CrudAPI.csproj",
       "projectName": "CrudAPI",
-      "projectPath": "C:\\Users\\pengf\\Desktop\\projects\\cs\\CrudAPI\\CrudAPI\\CrudAPI.csproj",
+      "projectPath": "C:\\Users\\pengf\\Desktop\\projects\\cs\\Custom_Middleware\\dotnet_CRUD_API\\CrudAPI.csproj",
       "packagesPath": "C:\\Users\\pengf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pengf\\Desktop\\projects\\cs\\CrudAPI\\CrudAPI\\obj\\",
+      "outputPath": "C:\\Users\\pengf\\Desktop\\projects\\cs\\Custom_Middleware\\dotnet_CRUD_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pengf\\AppData\\Roaming\\NuGet\\NuGet.Config"
